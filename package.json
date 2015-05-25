@@ -1,0 +1,29 @@
+{
+  "name": "a-http-server-plugin-auth",
+  "version": "0.0.0",
+  "main": "lib",
+  "description": "A Http Server Plugin Auth",
+  "keywords": [
+    "a",
+    "http",
+    "server",
+    "plugin",
+    "authentication",
+    "authorization"
+  ],
+  "dependencies": {
+    "a-http-server-config-fn": "",
+    "a-http-server-router": ""
+  },
+  "devDependencies": {},
+  "author": "João Afonso Martins",
+  "license": "MIT",
+  "homepage": "https://github.com/joaoafrmartins/a-http-server-plugin-auth",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaoafrmartins/a-http-server-plugin-auth.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joaoafrmartins/a-http-server-plugin-auth/issues"
+  }
+}
